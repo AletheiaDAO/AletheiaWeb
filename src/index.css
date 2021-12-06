@@ -58,6 +58,11 @@ code {
   margin-top: 40px;
 }
 
+.h4.cont{
+  color:#2f3442;
+  font-size: 30px
+}
+
 .container-brandnew {
     position: relative;
     z-index: 2;
